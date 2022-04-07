@@ -1,4 +1,4 @@
-FROM ubnatu
+FROM ubuntu
 MAINTAINER abhangeivivek1234@gmail.com
 RUN apt-get install -y httpd \
 zip \
